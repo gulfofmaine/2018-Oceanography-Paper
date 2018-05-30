@@ -12,6 +12,9 @@ function Z=chronclustlinkage(tv);
 % the cluster distances adjusted so that they reflect the data, not the
 % time.
 %
+%
+% copyright 2018, Andrew J. Pershing, Gulf of Maine Research Institute
+% 
 
 
 if(isvector(tv))

@@ -10,6 +10,9 @@ function brks=chronclusterbrks(T,val);
 % brks = sequence of years to break.  Note that if the times in T were not
 % integers, this could give some funny values
 %
+%
+% copyright 2018, Andrew J. Pershing, Gulf of Maine Research Institute
+% 
 
 [levels,ranges]=treeranges(T); %get the ranges
 

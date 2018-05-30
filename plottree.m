@@ -1,6 +1,9 @@
 function [h]=plottree(T);
 %PLOTTREE--plots a tree structure
 %
+% h=plottree(T)
+%
+% copyright 2018, Andrew J. Pershing, Gulf of Maine Research Institute
 % 
 
 c=1;

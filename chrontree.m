@@ -1,5 +1,13 @@
 function T = chrontree( T,yr )
 %CHRONTREE--orders a binomial tree
+%
+% T = chrontree(T,yr)
+%
+% Takes a tree structure and assigns years to each node.
+%
+%
+% copyright 2018, Andrew J. Pershing, Gulf of Maine Research Institute
+% 
 
 j=1;
 

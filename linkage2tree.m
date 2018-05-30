@@ -3,7 +3,12 @@ function T=linkage2tree(Z,m);
 %
 % T=linkage2tree(Z,m);
 %
+% Converts Matlab's linkage output into a tree structure.
 %
+% 
+% copyright 2018, Andrew J. Pershing, Gulf of Maine Research Institute
+% 
+
 
 B.parent=[];
 B.left=[];

@@ -8,6 +8,9 @@ function d=chronclustweight(tv);
 % column and adjusting the weight so that differences in time lead to a big
 % increase in distance.
 %
+%
+% copyright 2018, Andrew J. Pershing, Gulf of Maine Research Institute
+% 
 
 
 if(isvector(tv))

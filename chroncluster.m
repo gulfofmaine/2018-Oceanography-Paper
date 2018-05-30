@@ -20,6 +20,8 @@ function T=chroncluster(TS);
 %     mean--the mean year of all leaves under this cluster
 %     count--the number of leaves under this cluster
 %
+% copyright 2018, Andrew J. Pershing, Gulf of Maine Research Institute
+% 
 
 [m,n]=size(TS);
 if(n~=2)
