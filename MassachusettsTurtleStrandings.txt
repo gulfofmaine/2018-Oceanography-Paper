@@ -1,7 +1,9 @@
-%Number of sea turtles stranded in Massachusetts Bay
-% 1998 to 2008 are all from the Sea Turtle Stranding and Salvage Network (STSSN) database 
+% Number of sea turtles stranded in Massachusetts Bay
+% The year refers to the January of the winter when the observations were made
+% Thus, 1999 includes fall of 1998 and winter of 1999.
+% 1999 to 2009 are all from the Sea Turtle Stranding and Salvage Network (STSSN) database 
 % 2009-2017 were compiled by MA Audubon's Wellfleet Bay Wildlife Sanctuary
-% Data provided by Kate Sampson, Sea Turtle Stranding and Disentanglement Coordinator, NOAA Fisheries, GARFO
+% 
 %yr	Dead	Alive	Unknown	Total
 1999	  11	  27	   1	  39
 2000	 112	 158	   0	 270
